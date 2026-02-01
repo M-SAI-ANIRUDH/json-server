@@ -1,0 +1,14 @@
+{
+  "messages": [
+    "Hi there!",
+    "Hello! How can I help you today?",
+    "This is a sample chat message.",
+    "How is your day going?",
+    "I am testing a mock chat application.",
+    "This data is coming from a JSON file.",
+    "Angular makes building UI components easy.",
+    "You can replace this with a real API later.",
+    "Thanks for trying out the chat app.",
+    "Have a great day!"
+  ]
+}
